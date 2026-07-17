@@ -562,11 +562,11 @@ hash = "212858f6bb95d8b8b2a8fa4a50578bcff48d83ab3a5f7c13b8b94c3dee9d38c1"
 
 [[files]]
 file = "Conselho dos Cimios/data/minecraft/scheduled_events.dat"
-hash = "c5938ff9dd92a66fecdfc89edae7c28bbb3db22c6301b216ca5a383e88b196f9"
+hash = "aa373f183a3a43d84bd85b54fa79f110cdcbe6233ac3c4a591fbaca5a3ea725d"
 
 [[files]]
 file = "Conselho dos Cimios/data/minecraft/scoreboard.dat"
-hash = "652aacb4f0b96cbe243557ff3f9c847c70f4f0bf46630698fabd66ec03495b31"
+hash = "6f09573f7e56f823b443b220c1f905691b39132de1dfbe5e21465320227b6663"
 
 [[files]]
 file = "Conselho dos Cimios/data/minecraft/stopwatches.dat"
@@ -574,15 +574,15 @@ hash = "238b1b054df2312641862819549f502c5759da1a7b441bf3969f18bd189f3a24"
 
 [[files]]
 file = "Conselho dos Cimios/data/minecraft/wandering_trader.dat"
-hash = "e07d8aa771aa9216beeadd2acd85e230fc56762a8b7a41f8eeb0ed4048dc984e"
+hash = "3035b62abd23dba586bed470f93340429d72803cb3b5035f96e1504e0f1d763c"
 
 [[files]]
 file = "Conselho dos Cimios/data/minecraft/weather.dat"
-hash = "3b31f986a81a15508307477348cec928e391cc78fac44a2365a7dae098f9624f"
+hash = "e124800d3c02922eaf47708c4c105a05961548a9bb675dd1513b907ee01deb74"
 
 [[files]]
 file = "Conselho dos Cimios/data/minecraft/world_clocks.dat"
-hash = "4dda5df38c15cb687c0e274678e5eb95566c50556a2b56ecf4f79470d3747f75"
+hash = "d017f83e5d05bdc80f0303b1c36f1b8f80a0ca16fca7d911c2967f2ee349b271"
 
 [[files]]
 file = "Conselho dos Cimios/data/minecraft/world_gen_settings.dat"
@@ -602,7 +602,7 @@ hash = "007c8e51af29a2f604ac213c952ec583fd159aff00a2d8674d39789d76695ae1"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/data/minecraft/raids.dat"
-hash = "d87e87b5e0cbd14366db04682559d381ed0a6e0f8b8d88f0b9770145a513c838"
+hash = "3d4f31c00976d3632ea82cf764eec3afaeaeedcb6a08e2c1cb445bfc1380c034"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/data/minecraft/world_border.dat"
@@ -698,7 +698,7 @@ hash = "201328f305dc8a9f1ec1542ad606cc8a386d85b157d9c3517f115dd1509dd5a1"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/entities/r.0.0.mca"
-hash = "2fddb164b609aa5b91500dfafff656a5b96cd42076e9f359c8e1ff41ad507730"
+hash = "68d34b684581bafd6c8aed67a81194486b1ef51b11e1c1b4cd52cd47a5d326c7"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/entities/r.0.1.mca"
@@ -838,15 +838,15 @@ hash = "fe29324125140301ffd7a0cfe86dcf09ee888508ceb1e732068cbddb90e13e33"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/entities/r.11.4.mca"
-hash = "d8507cebea0c2997807aceb9de198eeead9024f3d71b401279d9c6edfb1987d8"
+hash = "7cddce98572f0df11467c4f2c31d1401a753ad8626c12faf48d89dcee99469ab"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/entities/r.11.5.mca"
-hash = "c13c7c3ef4f1befa830bb03a31d81b6fa7d69ae27305d4ba3dcd45db1b667527"
+hash = "abc41f4b4596230bfeac81dcfb7a3e383ef6a3f9cc3d36d03ed5c8a4e0e92f56"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/entities/r.11.6.mca"
-hash = "300df3424f94827b4cde51130fd30079f868f92b4e3e93bd393b54317496b573"
+hash = "c43aadfc2d174d40a7b97bb6c54bde7d72cad1afb56081fc6b1cffca0034c378"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/entities/r.11.7.mca"
@@ -866,15 +866,15 @@ hash = "9c6fb7a7f07832347ae440967ee4895c92e3becfd4b9a0f8e63fae17d2783fe5"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/entities/r.12.4.mca"
-hash = "0581a0f719b66abb41e79b24006b62f04014096008d5eef0513f5e6d435670d1"
+hash = "e609404f283a509ee7808ac683fb22c3144ab20fc8a9c7c3f07fb607fac05c1d"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/entities/r.12.5.mca"
-hash = "c4746562cbccf5fdca9fc56d8020edc144d7cae4eea041bc62e375d5f4657c5c"
+hash = "d2436fdde46c289cb20a666db40bf6f16255be85fef6f965ee0c2f595e0f921f"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/entities/r.12.6.mca"
-hash = "fe722b888a67152bd16dc9c2da1275625d00f6bb0ed7f9c9d88dc94d0b4e4e6e"
+hash = "9142d88df08d53b3addd125b3f96d94861cef2c854cdf8178ac1e9f0f0eeeca3"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/entities/r.12.7.mca"
@@ -894,15 +894,15 @@ hash = "6af8e423b4174de4e08a17211b0b10c5ab6bfe2eaeef7e383778d05ca90688d8"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/entities/r.13.4.mca"
-hash = "f652291665dbf0bf80de2b71087a0d5be5a9a89977d8b586a9c147dc4a60c564"
+hash = "b1664e5b537b98e42ab9c9e4222f4817c04ac9d59dd2cd897a9751ed26832d56"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/entities/r.13.5.mca"
-hash = "da6b757fed0c0e9e24f50379aaa6e00d5e78566fe30cb2b32ca003a2ed5734ae"
+hash = "3080bdb001b17a9a503aebd0f0a4a14f65c8d165cfaa2ff4381896f881bddcee"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/entities/r.13.6.mca"
-hash = "0948973972ed5188e7cd98aa8ffa3c81fb9981cbd560799e054e67bbe2833477"
+hash = "41790d2026ba8d07583aeb52de1fb53d0c67226d31178da690ff82f0f92693f7"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/entities/r.13.7.mca"
@@ -1518,15 +1518,15 @@ hash = "91b45567282042dbf64762b03412c28569faf8009aca68d7e284c6de88e7bfce"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/poi/r.11.4.mca"
-hash = "1cbe4e989528b443eb4716e1de644eef3ba021424edf2cd562b63bef47fe427b"
+hash = "1729a6dfd71833718711e08c30cddb8d5f774c37edc5c60d42cb7204e584684a"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/poi/r.11.5.mca"
-hash = "2aca2c5652e6aecc4ead0c669c430fbae4852552e82eafc0f91228e339e3d396"
+hash = "3a61cc6f893d69e3cc5bab6641acbea6e0142203840dd892919383e890be0eb2"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/poi/r.11.6.mca"
-hash = "79ba37750c841eec03050c76676b9a36d28091ef8f06ad5ae33660f730428e07"
+hash = "418b739d781bf04ccfa28f1dca3960f589c8d477dc2eafc752d1a7f22a650d40"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/poi/r.11.7.mca"
@@ -1550,15 +1550,15 @@ hash = "bd7aa3f0841ba25de77681691e2a7403d4ea5fd9f6575dbb381fcfe1785e2e3d"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/poi/r.12.4.mca"
-hash = "9bec6e297da65c2804761c457f669026fc98b6ac5e4254a5d97953e6a2674c2c"
+hash = "e4c26a1c68ba708ba37ae99a79a51765749c4a31e3b0f33e8396d38ebc68b4f1"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/poi/r.12.5.mca"
-hash = "f597a0cc35c598cff0d6332fd37510535d42d103dc7688443867f24e620e69ac"
+hash = "a5620b31c4d1c5112784cd90a9920f81e8049327fe140b3f3119ff3e3e9cfad4"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/poi/r.12.6.mca"
-hash = "6529f6c89cac8819964095b3b0428648b40f6ac17e483ff270135eb9569efe03"
+hash = "1b330b4b7f492d5ab490109f70e9c8d8683db93fde7cd51d1105ac672c6a14ce"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/poi/r.12.7.mca"
@@ -1582,15 +1582,15 @@ hash = "e464c7b3a8941a0f26e7f023cea2ed543465f0163ae538aeafca1a109a4e85c9"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/poi/r.13.4.mca"
-hash = "21b71f50059530cef16377568e08efd00a390586fa48ccaefb5a129706ce8bce"
+hash = "0683be358e0aff49e51156f0af2e76649ecf80b0cd5c750778647d95f8197a5b"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/poi/r.13.5.mca"
-hash = "bee25f72e4ab39b4b08a9d1bf3d5a5034ea915aba3195c21114ccd0247e8e9eb"
+hash = "157569386613bed1ce1998e1b8479153d22181431bcdfa055ff1a53864a3a6d7"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/poi/r.13.6.mca"
-hash = "5c7139957538f7b73a989b270b55a70745d5d8017b2a3b6e067cc7f6d711fb83"
+hash = "9563396e1d1180a55e77d6bc04233fa821bc197c0247b5151ece2761309f2c53"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/poi/r.13.7.mca"
@@ -2286,15 +2286,15 @@ hash = "79871bd88e9bdf31f4bc0320aabb609b760baae8d063bbf8edb7f31a564abaf5"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/region/r.11.4.mca"
-hash = "0623de50ba262f5719a143624af4e5f30598c6791a74b2db6fc03be74dc2c82d"
+hash = "7e9503aaab787e1a07c7f57e83b4ddb1415b3512765199c6da7cbf65041d6668"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/region/r.11.5.mca"
-hash = "26c0dfd8674dd1150b10882e0892c24cd11468d81a979510c12f4f4b6af1cf07"
+hash = "270a9aec371e07bcaa654bb82ce40584c5044297aae25f137b66435936f41778"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/region/r.11.6.mca"
-hash = "48f9b959e382bd71b9a27c36739f4de33434842e5eb13c7990e7f4cf53b017ed"
+hash = "0fe89f4da89cd972d99ff96149f9bde5366362268ae42d5a27e8960f6b4f70ee"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/region/r.11.7.mca"
@@ -2318,15 +2318,15 @@ hash = "0777225581d710d5e077e697f2f7eaca8b5cae4ebc428a7287b33fd2298f0028"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/region/r.12.4.mca"
-hash = "2cd1eb70bdeff7d5bac701baf3f41439104b8e0d28dc9c77e052819526a0bc1f"
+hash = "13f82a7d006144a87c07f043967c41cc1e456ee5eb7593c9bf22d23a9740a7df"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/region/r.12.5.mca"
-hash = "a3cc74b068e96972154d7288da4f3866ae9bda802cb3bb9ddcdba20baf73e707"
+hash = "a76b09ad994086577319a46169632acf155626010577536c11fe4d458f915685"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/region/r.12.6.mca"
-hash = "8ee5602a90f11de9f5685d5a440c74079a5fe424702ddf6b25d45ca58c8dd962"
+hash = "4bda74f20ac8f7a552644157d32ed6bbd9c007f4b328821568857867f2045404"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/region/r.12.7.mca"
@@ -2350,15 +2350,15 @@ hash = "89cac1ee6060e4bdbac38b71de4b18a3b55c408403610a81db865c80b3896697"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/region/r.13.4.mca"
-hash = "04299bdd827045b3ec0d18526af8a3a3fe25c9f8f632c3e319f685e2cd848934"
+hash = "ecc3eaa83f5c61102705f09a27b955e8fc012a269ca42028b2cc96a9966910c9"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/region/r.13.5.mca"
-hash = "38d72bd0f01ba5a5e385076d280da8dc0725ec66913ebcc1dbc97df5a968c43f"
+hash = "09a6ad573d1c67ba390bf24c4d2a382a990aac1b2bc9c8f7852c3bf7d95dd835"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/region/r.13.6.mca"
-hash = "32bd52e139d2f3a03e287bae562ac7e851010adb61ec3dd3c9ba1177244574b3"
+hash = "eba9cf6a020bd83c716143dd0fa6540405b3c2a9d0ff3c5fe0db5d04b1ce0896"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/overworld/region/r.13.7.mca"
@@ -2750,7 +2750,7 @@ hash = "76883353a787d5b492b861239325a7d0ab6e85d9281045158109b3013a6130b5"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/the_end/data/minecraft/raids.dat"
-hash = "ed82ef32c94b303ae7d12c94a3128220d8cc66d344fdfddaa89a3de9a0c67cdb"
+hash = "d795454ca3a963795d81ee8914d4f98a2a0be0e74cf5b1fffc5b07157e198308"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/the_end/data/minecraft/world_border.dat"
@@ -3734,7 +3734,7 @@ hash = "affde81785c162c664ededa3297ea39a4a656ca049feef5b60ac232da29e591a"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/the_nether/data/minecraft/raids.dat"
-hash = "ed82ef32c94b303ae7d12c94a3128220d8cc66d344fdfddaa89a3de9a0c67cdb"
+hash = "d795454ca3a963795d81ee8914d4f98a2a0be0e74cf5b1fffc5b07157e198308"
 
 [[files]]
 file = "Conselho dos Cimios/dimensions/minecraft/the_nether/data/minecraft/world_border.dat"
@@ -4402,11 +4402,11 @@ hash = "ec22cb38dc940e274cb254aa30a15d64d17569b75cba23bdaceb7ee844d0c2b7"
 
 [[files]]
 file = "Conselho dos Cimios/level.dat"
-hash = "da13a6a004a92ad7815285fea1d27e687a09e171a7be31fb001c1587edb00dcc"
+hash = "31cdda5033c6953e1044f7aef8f9d19bb7049de597f941bc5a5fafd4e05e05c2"
 
 [[files]]
 file = "Conselho dos Cimios/level.dat_old"
-hash = "c1822847e4e9844ddec2fe583ce9cc489b1462c334cb8126574fb306d4d00c82"
+hash = "da13a6a004a92ad7815285fea1d27e687a09e171a7be31fb001c1587edb00dcc"
 
 [[files]]
 file = "Conselho dos Cimios/players/advancements/3baadf3a-6cee-3e78-a9f8-a479e40d649f.json"
@@ -4430,7 +4430,7 @@ hash = "05dd9bc494dc5d2649123f40cebf3a14407329f9a005a6c00709d0d4e7f3b151"
 
 [[files]]
 file = "Conselho dos Cimios/players/advancements/f0a33dca-6182-3fdf-8bfc-3147bcdc79c7.json"
-hash = "ecd0270ea80cbb2b037bd5707ca8a4c0a1043015f90ca637766c3e8eac1a35b7"
+hash = "588299fbb86cc32edb08a5ac02404b557c25b67af856cd05af6e813461a48850"
 
 [[files]]
 file = "Conselho dos Cimios/players/data/3baadf3a-6cee-3e78-a9f8-a479e40d649f.dat"
@@ -4474,11 +4474,11 @@ hash = "6f704fb99fd57bb9452c7e019962a2f13957889fbd8d3adf49450dcc472cc68e"
 
 [[files]]
 file = "Conselho dos Cimios/players/data/f0a33dca-6182-3fdf-8bfc-3147bcdc79c7.dat"
-hash = "1af9b51e767d6448cedfde1e9ae3a97e156dee54d11ce27d00462b5255ddd11a"
+hash = "48d5caae169b27f5a057c037c0537b2b02f29c10314c98a41c29eb01734754f5"
 
 [[files]]
 file = "Conselho dos Cimios/players/data/f0a33dca-6182-3fdf-8bfc-3147bcdc79c7.dat_old"
-hash = "1366128aebf8fe1674a31a976c1d93d53c2d44fea247325d05be73a3ef809eb9"
+hash = "1af9b51e767d6448cedfde1e9ae3a97e156dee54d11ce27d00462b5255ddd11a"
 
 [[files]]
 file = "Conselho dos Cimios/players/stats/3baadf3a-6cee-3e78-a9f8-a479e40d649f.json"
@@ -4502,7 +4502,7 @@ hash = "23fc29d82bff8e2f8478608b1b96acb062cbdd9007969cd97028351306a87a9e"
 
 [[files]]
 file = "Conselho dos Cimios/players/stats/f0a33dca-6182-3fdf-8bfc-3147bcdc79c7.json"
-hash = "3214bbcc269aa6b1d2f7ba13bd5e94987733f379cb4deba6d882d57c304b217a"
+hash = "ca0e477f9378a80254908f0fbe4d6d93a78792a140a284864db6a9f16df3d2ac"
 
 [[files]]
 file = "Conselho dos Cimios/serverconfig/readme.txt"
@@ -4538,7 +4538,7 @@ hash = "f50d73d07381b32bb09454cf1df5121b2b8ffafe93413ea2bb3fc09d4c6ad506"
 
 [[files]]
 file = "Conselho dos Cimios/skinrestorer/f0a33dca-6182-3fdf-8bfc-3147bcdc79c7.json"
-hash = "16d6cc909c4dfa2d867ec7d54a6d7e12874e94756c3bff9a8a261e02ece98f7c"
+hash = "d2e8df0167076255371a311acc1f134282e263f4e529d5296f9d6f8053255025"
 
 [[files]]
 file = "banned-ips.json"
@@ -5638,7 +5638,7 @@ hash = "86c3241e5d4c48ca244dab9e16d0dfa9db67b6e2bc10ff6151bd53cc58b413a7"
 
 [[files]]
 file = "logs/latest.log"
-hash = "bed641e9b002563a6761ef899c278e18e02a865121d7f70c93f7d04fb5a2ac4a"
+hash = "3da9c666107eb2dce8e6ef2fd723f30a85819aa3dfe4a1c9bd882a69b0caba28"
 
 [[files]]
 file = "mods/AmbientSounds_FABRIC_v6.3.6_mc26.1.2.jar"
@@ -6074,7 +6074,7 @@ hash = "08a4127fbb9e6aedcc09761d09e663c65d6e5abd59c14a9e722905a7f8b79a2e"
 
 [[files]]
 file = "usercache.json"
-hash = "ec5bc62349d8e82a849089ef49fcea321e5550fac4e07956d38329c43193a3d4"
+hash = "f389cf84c3caf24f5be48c3990ac72772dd094d8e5c0b0856318115df67fbafc"
 
 [[files]]
 file = "versions/26.1.2/server-26.1.2.jar"
