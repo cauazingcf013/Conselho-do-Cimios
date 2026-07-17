@@ -1,0 +1,6 @@
+[
+  {"version":3},
+  {"ingredient":{"id":"minecraft:lapis_lazuli"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:rail"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:water_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

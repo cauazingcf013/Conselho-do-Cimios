@@ -1,0 +1,92 @@
+{
+  "enabled": true,
+  "deathLimit": 3,
+  "hudEnabled": true,
+  "locatorHudEnabled": true,
+  "waypointHudEnabled": false,
+  "autoPointsEnabled": true,
+  "locatorShowTicks": true,
+  "locatorShowDirections": true,
+  "locatorShowMarkers": true,
+  "locatorUseFlatBar": false,
+  "waypoints": [
+    {
+      "name": "FirstJoin",
+      "world": "sp:C:\\Users\\Administrator\\AppData\\Roaming\\ModrinthApp\\profiles\\Fabulously Optimized\\saves\\Conselho dos Cimios",
+      "dimension": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+      "x": 964,
+      "y": 99,
+      "z": 1173,
+      "color": 5635925,
+      "kind": "normal",
+      "createdAt": 1783739552051,
+      "hidden": false,
+      "favorite": false
+    },
+    {
+      "name": "EnterNether",
+      "world": "sp:C:\\Users\\Administrator\\AppData\\Roaming\\ModrinthApp\\profiles\\Fabulously Optimized\\saves\\Conselho dos Cimios",
+      "dimension": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+      "x": 966,
+      "y": 99,
+      "z": 1177,
+      "color": 16755200,
+      "kind": "normal",
+      "createdAt": 1783739828231,
+      "hidden": false,
+      "favorite": false
+    },
+    {
+      "name": "BastionLoot",
+      "world": "sp:C:\\Users\\Administrator\\AppData\\Roaming\\ModrinthApp\\profiles\\Fabulously Optimized\\saves\\Conselho dos Cimios",
+      "dimension": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+      "x": 966,
+      "y": 99,
+      "z": 1177,
+      "color": 16763989,
+      "kind": "normal",
+      "createdAt": 1783739828233,
+      "hidden": false,
+      "favorite": false
+    },
+    {
+      "name": "Stronghold",
+      "world": "sp:C:\\Users\\Administrator\\AppData\\Roaming\\ModrinthApp\\profiles\\Fabulously Optimized\\saves\\Conselho dos Cimios",
+      "dimension": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+      "x": 966,
+      "y": 99,
+      "z": 1177,
+      "color": 11167487,
+      "kind": "normal",
+      "createdAt": 1783739828234,
+      "hidden": false,
+      "favorite": false
+    },
+    {
+      "name": "Bastion",
+      "world": "sp:C:\\Users\\Administrator\\AppData\\Roaming\\ModrinthApp\\profiles\\Fabulously Optimized\\saves\\Conselho dos Cimios",
+      "dimension": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+      "x": 966,
+      "y": 99,
+      "z": 1177,
+      "color": 16755200,
+      "kind": "normal",
+      "createdAt": 1783739828235,
+      "hidden": false,
+      "favorite": false
+    },
+    {
+      "name": "NetherFortress",
+      "world": "sp:C:\\Users\\Administrator\\AppData\\Roaming\\ModrinthApp\\profiles\\Fabulously Optimized\\saves\\Conselho dos Cimios",
+      "dimension": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+      "x": 966,
+      "y": 99,
+      "z": 1177,
+      "color": 16733525,
+      "kind": "normal",
+      "createdAt": 1783739828235,
+      "hidden": false,
+      "favorite": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+/*
+!/.gitignore
+!/mods/
+!/config/
+!/pack.toml
+!/index.toml
+!/defaultconfigs/
+*.disabled
+*.fma
